@@ -31,7 +31,7 @@ class _QuoteListState extends State<QuoteList> {
       backgroundColor: Colors.grey[200],
       appBar: AppBar(
         backgroundColor: Colors.redAccent,
-        title: const Text('Awesome Quotes'),
+        title: const Text('awesome quotes'),
         centerTitle: true,
       ),
       body: Column(
